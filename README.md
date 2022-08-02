@@ -16,9 +16,9 @@
 
 ## My Competitive Programming and Kaggle Profile
 <p align="center">
-  <a href="https://www.hackerrank.com/siddharth_su"><img src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" alt="HackerRank"/></a>
-	<a href="https://leetcode.com/sid_3945/"><img src="https://miro.medium.com/max/1400/1*kBWo_GWrG58h28kDHwnBfg.png" alt="LeetCode"/></a>
+  	<a href="https://leetcode.com/sid_3945/"><img src="https://miro.medium.com/max/1400/1*kBWo_GWrG58h28kDHwnBfg.png" alt="LeetCode"/></a>
 	<a href="https://www.kaggle.com/sid3945"><img src="https://www.dataapplab.com/wp-content/uploads/2016/10/kaggle-logo-transparent-300.png" alt="Kaggle"/></a>
+	<a href="https://www.hackerrank.com/siddharth_su"><img src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" alt="HackerRank"/></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
