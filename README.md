@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi , I'm Siddharth Upadhyay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
@@ -9,6 +7,8 @@
 - :computer: I practise DSA at [`LeetCode`](https://leetcode.com/sid_3945/).
 - :thinking: I’m currently open for: `An Intern`, this is [MY RESUME](https://www.canva.com/design/DAFIMYwSyiQ/WZJXgbjnYLn0MpGp7iVB8Q/view?utm_content=DAFIMYwSyiQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 <br>
+A quote I live by: Remember me as someone who tried:) <br><br>
+
 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sid3934&theme=algolia" alt="7oSkaaa" /></p>
 <br>
