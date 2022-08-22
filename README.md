@@ -2,8 +2,7 @@
 <p align="center">
 
 ## :sassy_man:  About me
-- :school: I am a Student at K. J. Somaiya College of Engineering.
-- :technologist: I look at things with a wanting-to-learn eye.   
+- :school: I am a Student at K. J. Somaiya College of Engineering.   
 - :computer: I practise DSA at [`LeetCode`](https://leetcode.com/sid_3945/).
 - :thinking: I’m currently open for: `An Intern`, this is [MY RESUME](https://www.canva.com/design/DAFIMYwSyiQ/WZJXgbjnYLn0MpGp7iVB8Q/view?utm_content=DAFIMYwSyiQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 <br>
@@ -16,9 +15,9 @@ A quote I live by: Remember me as someone who tried:) <br><br>
 
 ## My Competitive Programming and Kaggle Profile
 <p align="center">
-  	<a href="https://leetcode.com/sid_3945/"><img src="https://miro.medium.com/max/1400/1*kBWo_GWrG58h28kDHwnBfg.png" alt="LeetCode"/></a>
-	<a href="https://www.kaggle.com/sid3945"><img src="https://www.dataapplab.com/wp-content/uploads/2016/10/kaggle-logo-transparent-300.png" alt="Kaggle"/></a>
-	<a href="https://www.hackerrank.com/siddharth_su"><img src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" alt="HackerRank"/></a>
+  	<a href="https://leetcode.com/sid_3945/"><img src="https://miro.medium.com/max/1400/1*kBWo_GWrG58h28kDHwnBfg.png" width="350vw" alt="LeetCode"/></a><br>
+	<a href="https://www.kaggle.com/sid3945"><img src="https://www.dataapplab.com/wp-content/uploads/2016/10/kaggle-logo-transparent-300.png" width="300vw" alt="Kaggle"/></a><br>
+	<a href="https://www.hackerrank.com/siddharth_su"><img src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" width="300vw" alt="HackerRank"/></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
@@ -95,7 +94,7 @@ A quote I live by: Remember me as someone who tried:) <br><br>
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/sid3934"><img alt="Sid3934's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sid3934&custom_title=Sid3934's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/sid3934"><img alt="Sid3934's Activity Graph" width="800vw" src="https://activity-graph.herokuapp.com/graph?username=sid3934&custom_title=Sid3934's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 <br/>
 
