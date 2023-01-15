@@ -4,7 +4,7 @@
 ## :sassy_man:  About me
 - :school: I am a Student at K. J. Somaiya College of Engineering.   
 - :computer: I practise DSA at [`LeetCode`](https://leetcode.com/sid_3945/).
-- :thinking: I’m currently open for: `An Intern`, this is [MY RESUME](https://www.canva.com/design/DAFIMYwSyiQ/WZJXgbjnYLn0MpGp7iVB8Q/view?utm_content=DAFIMYwSyiQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+- :thinking: I’m currently open for: `An Intern`, this is [MY RESUME][(https://www.canva.com/design/DAFIMYwSyiQ/WZJXgbjnYLn0MpGp7iVB8Q/view?utm_content=DAFIMYwSyiQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://docs.google.com/document/d/17sqB0yWVlwJ1tB83BKUkr26rxMndi4DB/edit?usp=sharing&ouid=100604163848418112968&rtpof=true&sd=true)
 <br>
 A quote I live by: Remember me as someone who tried:) <br><br>
 
